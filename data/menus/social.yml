@@ -11,4 +11,8 @@
   target: https://github.com/patriochka
   kind: url
   children: []
+- title: Mail
+  target: mailto:contact@patriciaroche.me
+  kind: url
+  children: []
 
