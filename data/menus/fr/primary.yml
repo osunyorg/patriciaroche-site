@@ -1,8 +1,4 @@
 ---
 title: Menu principal
-items:
-- title: Curriculum Vitae
-  target: "/curriculum-vitae/"
-  kind: page
-  children: []
+items: []
 
