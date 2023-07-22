@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
 - title: Curriculum Vitae
   target: "/curriculum-vitae/"
   kind: page
