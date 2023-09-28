@@ -1,10 +1,6 @@
 ---
 title: Liens sociaux
 items:
-- title: LinkedIn
-  target: https://fr.linkedin.com/in/patriochka
-  kind: url
-  children: []
 - title: Github
   target: https://github.com/patriochka
   kind: url
