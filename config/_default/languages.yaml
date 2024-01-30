@@ -5,6 +5,12 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  params:
+    social:
+      x: >-
+        https://twitter.com/patriciar0che
+      linkedin: >-
+        https://www.linkedin.com/in/patricia-roche/
   permalinks:
   taxonomies:
     administrator: administrators
