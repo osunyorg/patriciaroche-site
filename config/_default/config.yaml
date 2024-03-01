@@ -6,3 +6,5 @@ params:
   home:
     toc:
       disabled: false
+  debug:
+     productionUrl: "https://www.patriciaroche.fr/"
