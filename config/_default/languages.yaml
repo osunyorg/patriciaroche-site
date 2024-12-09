@@ -7,15 +7,30 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        contact@patriciaroche.me
-      x: >-
-        https://twitter.com/patriciar0che
-      github: >-
-        https://github.com/patriochka
-      linkedin: >-
-        https://www.linkedin.com/in/patricia-roche/
+    contact_details:
+      emails:
+        email:
+          label: >-
+            contact@patriciaroche.me
+          value: >-
+            mailto:contact@patriciaroche.me
+      social_networks:
+        github:
+          label: >-
+            patriochka
+          value: >-
+            https://github.com/patriochka
+        linkedin:
+          label: >-
+            patricia-roche
+          value: >-
+            https://www.linkedin.com/in/patricia-roche/
+        x:
+          label: >-
+            patriciar0che
+          value: >-
+            https://x.com/patriciar0che
+
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
