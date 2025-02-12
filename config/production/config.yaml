@@ -2,6 +2,11 @@
 
 baseURL: https://www.patriciaroche.fr
 
+## OSUNY
+osuny:
+  website:
+    id: 6d9350d3-2001-4660-86a7-3afaca9eb21e
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
