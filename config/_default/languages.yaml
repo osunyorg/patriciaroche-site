@@ -32,10 +32,6 @@ fr:
           value: >-
             https://x.com/patriciar0che
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
   taxonomies:
     administrator: administrators
     author: authors
